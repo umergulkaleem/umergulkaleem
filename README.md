@@ -25,7 +25,7 @@ I actively solve **LeetCode** problems to enhance my problem-solving and algorit
 ### 🪑 Furniture Store E-Commerce Website  
 Developed a scalable e-commerce site using **Next.js**, **Sanity.io**, and **Tailwind CSS** with product listings, filters, and cart functionality.
 
-- 🔗 [Project Overview](#https://hackathon-03-furniture-store.vercel.app/)
+- 🔗 [Project Overview](https://hackathon-03-furniture-store.vercel.app/)
 
 ### 🏆 UI/UX Hackathon Project  
 Built a clean, responsive furniture store UI for a university hackathon with a focus on user experience and transparency.
