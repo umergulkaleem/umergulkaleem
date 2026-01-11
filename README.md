@@ -6,11 +6,11 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 
 Currently pursuing BS Computer Science and actively sharpening my skills through projects, hackathons, leadership roles, and competitive programming.
 
-<u>🧠 About Me</u>
+🧠 About Me
 
 💻 Software Developer focused on Next.js, JavaScript, Tailwind CSS
 
-🧩 Regular LeetCode problem solver (DSA & algorithms)
+🧩 Regular LeetCode problem solver (DSA & Algorithms)
 
 👨‍💼 Team Lead in international & university hackathons
 
@@ -20,7 +20,7 @@ Currently pursuing BS Computer Science and actively sharpening my skills through
 
 📍 Based in Karachi, Pakistan
 
-<u>🚀 Tech Stack</u>
+🚀 Tech Stack
 Frontend
 
 Next.js · JavaScript · TypeScript · Tailwind CSS · HTML5 · CSS3
@@ -33,12 +33,12 @@ Tools & Platforms
 
 Git · GitHub · Vercel · Cisco Packet Tracer
 
-<u>💼 Projects</u>
+💼 Projects
 🤖 EthicalAgent – AI Ethics Monitoring Agent
 
 Tech: Python · Agent-based AI · APIs
 
-Built an autonomous agent focused on ethical decision analysis
+Built an autonomous agent for ethical decision analysis
 
 Monitors prompts/actions against predefined ethical constraints
 
@@ -52,7 +52,7 @@ Explores early agentic AI concepts and planning workflows
 
 📊 LeetCode Practice
 
-Actively solving algorithmic problems to strengthen DSA & problem-solving skills
+Actively solving algorithmic problems to strengthen DSA & problem-solving
 
 Focus on arrays, strings, recursion, stacks, queues, trees, and graphs
 
@@ -132,7 +132,7 @@ PDF export functionality for layouts
 
 📁 Source: https://github.com/umergulkaleem/SeatingSystem
 
-<u>📚 Academic & Practice Work</u>
+📚 Academic & Practice Work
 
 Strong foundation in C programming (loops, functions, conditions)
 
@@ -142,17 +142,21 @@ Linear Algebra (null space, range space, transformations)
 
 Networking simulations using Cisco Packet Tracer
 
-<u>🌱 Currently Learning</u>
+🌱 Currently Learning
 
-Advanced TypeScript patterns
+Advanced DSA patterns
 
-Java (final-year project)
+Java,Python
 
 Agentic AI & autonomous systems
 
 Secure authentication & scalable frontend architectures
 
-<u>📫 Let’s Connect</u>
+📫 Let’s Connect
+
+GitHub: https://github.com/umergulkaleem
+
+LeetCode: https://leetcode.com/u/umergulkaleem/
 
 📧 Email: umergulkaleem@gmail.com
 
