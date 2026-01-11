@@ -1,44 +1,154 @@
-# 👋 Hi, I'm Umer Gul Kaleem
+ Hi, I'm Umer Gul Kaleem
 
-**International Hackathon Participant** | Software Developer focused on building clean, responsive, and scalable web applications using **Next.js**, **JavaScript**, and **Tailwind CSS**.
+ International Hackathon Participant | Software Developer | Team Lead
+I build clean, responsive, and scalable web applications with a strong focus on UI/UX, performance, and real world problem solving.
 
-I actively solve **LeetCode** problems to enhance my problem-solving and algorithmic skills. My work emphasizes intuitive UI design, efficient front-end architecture, and continuous learning with **Python** and **TypeScript**.
+Currently pursuing BS Computer Science and actively sharpening my skills through projects, hackathons, leadership roles, and competitive programming.
 
----
+ About Me
 
-## 🚀 Tech Stack
+💻 Software Developer focused on Next.js, JavaScript, Tailwind CSS
 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Sanity.io](https://img.shields.io/badge/-Sanity.io-F03E2F?style=flat-square&logo=sanity)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+🧩 Regular LeetCode problem solver (DSA & algorithms)
 
----
+👨‍💼 Team Lead in international & university hackathons
 
-## 💼 Projects
+🎯 Interested in frontend architecture, UX design, and agentic AI systems
 
-### 🪑 Furniture Store E-Commerce Website  
-Developed a scalable e-commerce site using **Next.js**, **Sanity.io**, and **Tailwind CSS** with product listings, filters, and cart functionality.
+🏆 Hackathon-driven learner who enjoys building under pressure
 
-- 🔗 [Project Overview](https://hackathon-03-furniture-store.vercel.app/)
+📍 Based in Karachi, Pakistan
 
-### 🏆 UI/UX Hackathon Project  
-Built a clean, responsive furniture store UI for a university hackathon with a focus on user experience and transparency.
+🚀 Tech Stack
 
----
+Frontend
+Next.js · JavaScript · TypeScript · Tailwind CSS · HTML5 · CSS3
 
-## 📫 Let's Connect!
+Backend / Data
+Python · Sanity.io · Supabase · Streamlit
 
-- 📧 [umergulkaleem@gmail.com](mailto:umergulkaleem@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/umergulkaleem/)
-- 📍 Karachi, Pakistan
+Tools & Platforms
+Git · GitHub · Vercel · Cisco Packet Tracer
 
----
+💼 Projects
+🤖 EthicalAgent – AI Ethics Monitoring Agent
 
-> “Building things people love to use — one line of code at a time.” ✨
+Tech: Python · Agent-based AI · APIs
 
+Built an autonomous agent focused on ethical decision analysis
+
+Monitors prompts/actions against predefined ethical constraints
+
+Designed for responsible AI experimentation
+
+Explores early agentic AI concepts and planning workflows
+🔗 Live Demo: https://ethical-agent.streamlit.app/
+📁 Source: https://github.com/umergulkaleem/ethical-agent
+
+📊 LeetCode Practice
+
+Actively solving algorithmic problems to strengthen DSA & problem-solving skills
+
+Focus on arrays, strings, recursion, stacks, queues, trees, and graphs
+
+Consistent practice mindset for interview readiness
+📁 Repo: https://github.com/umergulkaleem/LeetCode
+🌐 Profile: https://leetcode.com/u/umergulkaleem/
+
+🏢 PayFlowAI – IBM Hackathon Project
+
+Tech: Next.js · Tailwind CSS · Vercel
+
+Contributed as part of an international team during an IBM hackathon
+
+Worked on frontend UI and user flow implementation
+
+Focused on real-world fintech use cases
+
+Delivered a fully deployed solution under strict deadlines
+🔗 Live Site: https://payflowai-nine.vercel.app/
+📁 Source: https://github.com/umergulkaleem/PayFlowAI
+
+🧠 ReadMe Agent – AI Documentation Assistant (Team Lead)
+
+Tech: Python · Streamlit · AI Automation
+
+Led the team in building an AI agent for automated README generation
+
+Streamlined documentation for GitHub projects
+
+Improved developer productivity and onboarding
+🔗 Live Demo: https://readme-agent.streamlit.app/
+📁 Source: https://github.com/umergulkaleem/ReadMe_Agent
+
+📰 TruthBeacon – Citizen Reporting Platform (Hackathon)
+
+Tech: Next.js · Tailwind CSS · Supabase
+
+Verified citizen reporting & activism platform
+
+Google authentication with role-based access
+
+Upvoting restricted to authenticated users
+
+User dashboards with secure RLS policies (UUIDs)
+🔗 Live Site: https://truthbeacon-iota.vercel.app/
+📁 Source: https://github.com/umergulkaleem/truthbeacon
+
+🪑 Furniture Store – E-Commerce Website
+
+Tech: Next.js · Sanity.io · Tailwind CSS
+
+Scalable furniture e-commerce platform
+
+Dynamic product listings & category pages
+
+Cart & checkout popup UI
+
+Fully responsive with clean UX
+📁 Source: https://github.com/umergulkaleem/Hackathon-03-Furniture-store
+
+📊 LeetCode Practice
+
+Actively solving algorithmic problems to strengthen DSA skills
+📁 Repo: https://github.com/umergulkaleem/LeetCode
+🌐 Profile: https://leetcode.com/u/umergulkaleem/
+
+🪑 Classroom Seating Arrangement System
+
+Tech: Django · Python
+
+Automated classroom seating plans
+
+PDF export functionality for layouts
+📁 Source: https://github.com/umergulkaleem/SeatingSystem
+
+📚 Academic & Practice Work
+
+Strong foundation in C programming (loops, functions, conditions)
+
+Object-Oriented Programming in Java & Python
+
+Linear Algebra (null space, range space, transformations)
+
+Networking simulations using Cisco Packet Tracer
+
+🌱 Currently Learning
+
+Advanced TypeScript patterns
+
+Java (final-year project)
+
+Agentic AI & autonomous systems
+
+Secure authentication & scalable frontend architectures
+
+📫 Let’s Connect
+
+📧 Email: umergulkaleem@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/umergulkaleem
+
+🐙 GitHub: https://github.com/umergulkaleem
+
+⭐ Open to internships, hackathons, and collaborative projects.
